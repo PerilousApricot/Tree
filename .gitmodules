@@ -1,3 +1,6 @@
 [submodule "Top"]
 	path = Top
 	url = git@github.com:ksamdev/TopTree.git
+[submodule "System8"]
+	path = System8
+	url = git@github.com:ksamdev/S8Tree.git
